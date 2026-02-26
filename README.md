@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-02-26</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-26/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-26/story.md"><small>薄冰上的生活 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by palm trees</small></td>
 </tr>
 <tr>
