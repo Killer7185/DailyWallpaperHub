@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-02-26</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by palm trees</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-02-25</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-25/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-25/story.md"><small>一幅壮丽的景象 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-25/story.md"><small>Atacama is filled with other-worldly landscapes. Nearly everywhere you turn, you feel like you might be on another planet. 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-17/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-17/story.md"><small>生而自由，永不驯服 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-17/story.md"><small>Nature trail surrounded by trees.  📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-16</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-16/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-16/story.md"><small>福气满满，马年大吉 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-16/story.md"><small>a black and white photo of a mountain range 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
