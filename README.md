@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-08</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-03/2026-03-08/story.md"><small>a bird flying over a body of water 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-07</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-07/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-07/story.md"><small>节约日光的艺术 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-03/2026-03-07/story.md"><small>a small stream running through a lush green forest 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-02-27</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-27/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-27/story.md"><small>洋溢着社区氛围 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-27/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-02/2026-02-27/story.md"><small>a foggy field with trees in the distance 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-02-26</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-02/2026-02-26/image.jpg"><img src="docs/wallpapers/bing/2026-02/2026-02-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-02/2026-02-26/story.md"><small>薄冰上的生活 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-02/2026-02-26/image.jpg"><img src="docs/wallpapers/unsplash/2026-02/2026-02-26/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water surrounded by palm trees</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
