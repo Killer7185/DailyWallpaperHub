@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-20</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-20/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>silhouette of boat on water during golden hour</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-19</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-19/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-19/story.md"><small>春日绯梦 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-19/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Orsova city, Romania. It is situated on the Romanian bank of the Danube. </small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-03-11</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-11/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-11/story.md"><small>排练中的翅膀 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a mountain range from the top of a hill</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-03-10</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-10/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一个美好的春天</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a mountain with a plane flying in the sky</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
