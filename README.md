@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-03-23</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-23/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a house in the middle of a mountain range</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-03-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-22/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-22/story.md"><small>当水划出界线 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>The colors I love 🌻</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-03-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-14/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-14/story.md"><small>掠海而过 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown mountains under white clouds during daytime</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-03-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-13/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>圆周率的古老启示</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white and brown house near body of water during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
