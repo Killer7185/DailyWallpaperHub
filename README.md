@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-07</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-07/story.md"><small>green-leafed trees at the bottom of the mountain during daytime 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-06</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-06/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-04/2026-04-06/story.md"><small>一根树枝，一点工程 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-06/story.md"><small>ndisturbed green meadows bedded with flowers and medicinal plants, where clouds play hide and seek, where cool breeze makes you hide between the rocks, where crow finds tough to take its flight, where you feel on the top of the world is what describes the not so famous Chanshal Pass. 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-03-29</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-29/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-29/story.md"><small>优雅的动态 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-29/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-03/2026-03-29/story.md"><small>silhouette of boat on water during golden hour 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-03-28</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-28/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-28/story.md"><small>海边的宁静 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-28/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Ski resort in Xinjiang</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
