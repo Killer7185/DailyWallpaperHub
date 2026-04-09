@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-09</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-09/story.md"><small>green grass field under white clouds during daytime 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-08</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>光之水帘</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Nature trail surrounded by trees. </small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-03-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-31/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>跃入四月</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-31/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-03/2026-03-31/story.md"><small>a view of a mountain range from a plane 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-03-30</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-03/2026-03-30/image.jpg"><img src="docs/wallpapers/bing/2026-03/2026-03-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-03/2026-03-30/story.md"><small>地下天堂 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-03/2026-03-30/image.jpg"><img src="docs/wallpapers/unsplash/2026-03/2026-03-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-03/2026-03-30/story.md"><small>brown and green rock formation on sea under gray clouds during daytime 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
