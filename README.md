@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-04-18</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-18/story.md"><small>silhouette of mountains 📖</small></a></td>
+</tr>
+<tr>
 <td align="center"><b>2026-04-17</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-17/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>未完成巨像的静默</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-17/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-17/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-17/story.md"><small>a field with trees and a hill in the background 📖</small></a></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-04-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-09/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-04/2026-04-09/story.md"><small>算计的小爪子 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-04/2026-04-09/story.md"><small>green grass field under white clouds during daytime 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-04-08</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/bing/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>光之水帘</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-04/2026-04-08/image.jpg"><img src="docs/wallpapers/unsplash/2026-04/2026-04-08/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Nature trail surrounded by trees. </small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
