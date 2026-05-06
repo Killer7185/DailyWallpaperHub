@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-05-06</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-06/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-05/2026-05-06/story.md"><small>广袤铺展的沙漠 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-05/2026-05-06/story.md"><small>Took this photo 2008 on a trip to swiss. Panorama of six vertical shots stitched together. 
 1/400 sec / f.8 / ISO 200 / Nikon D70 📖</small></a></td>
 </tr>
