@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-05-14</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-14/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-05/2026-05-14/story.md"><small>鲸鱼，你会救我吗？ 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-14/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Early in the morning</small></td>
 </tr>
 <tr>
