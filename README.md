@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-05-19</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-19/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Atacama is filled with other-worldly landscapes. Nearly everywhere you turn, you feel like you might be on another planet.</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-05-18</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-18/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>马略卡岛的边缘</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-18/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>brown and green mountains under white clouds during daytime</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-05-10</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-10/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-05/2026-05-10/story.md"><small>水下建筑 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-05/2026-05-10/story.md"><small>brown wheat in close up photography 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-05-09</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-09/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-05/2026-05-09/story.md"><small>一份经久不衰的羁绊 📖</small></a></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-09/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-05/2026-05-09/story.md"><small>Shallow river high speed boating at Skippers canyon near Queenstown, New Zealand 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
