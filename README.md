@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-05-22</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-22/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>snow covered trees and mountains during daytime</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-05-21</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-21/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>海洋生命的律动</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-21/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A Village</small></td>
@@ -86,11 +91,6 @@
 <td align="center"><b>2026-05-13</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-13/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/bing/2026-05/2026-05-13/story.md"><small>一场穿越时空的旅程 📖</small></a></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-13/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-05/2026-05-13/story.md"><small>ocean waves crashing on rocks during sunset 📖</small></a></td>
-</tr>
-<tr>
-<td align="center"><b>2026-05-12</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-12/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>银河系，摇滚吧！</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><a href="docs/wallpapers/unsplash/2026-05/2026-05-12/story.md"><small>a house in the middle of a field with a mountain in the background 📖</small></a></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
