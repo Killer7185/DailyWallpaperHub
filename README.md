@@ -44,7 +44,7 @@
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
 <td align="center"><b>2026-05-25</b></td>
-<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-05/2026-05-25/image.jpg"><img src="docs/wallpapers/bing/2026-05/2026-05-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>羽扇豆书写的季节</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-05/2026-05-25/image.jpg"><img src="docs/wallpapers/unsplash/2026-05/2026-05-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>Gunung Gede merupakan sebuah gunung api bertipe stratovolcano yang berada di Pulau Jawa, Indonesia. Gunung Gede berada dalam ruang lingkup Taman Nasional Gede Pangrango, yang merupakan salah satu dari lima taman nasional yang pertama kali diumumkan di Indonesia pada tahun 1980. Wikipedia
 Ketinggian: 2.958 m
 Letak: Jawa Barat, Indonesia
