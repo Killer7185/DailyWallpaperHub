@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-11</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with mountains in the background</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-10</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-10/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>沉静的力量</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-10/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a view of a mountain range from a plane</small></td>
@@ -87,11 +92,6 @@
 <td align="center"><b>2026-06-02</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-02/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>路之所止，行之所启</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-02/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a bench sitting in the middle of a lush green park</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-01</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-01/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>穿行于蓝色之间</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-01/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a person standing on a beach next to the ocean</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
