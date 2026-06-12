@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-12</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-12/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>A view of the hills and valley at Vattakanal, India</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-11</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-11/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>惊鸿一瞥</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-11/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a body of water with mountains in the background</small></td>
@@ -87,11 +92,6 @@
 <td align="center"><b>2026-06-03</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-03/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>优雅羽饰</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-03/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-03/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a lush green hillside covered in lots of moss</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-02</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-02/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>路之所止，行之所启</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-02/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a bench sitting in the middle of a lush green park</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
