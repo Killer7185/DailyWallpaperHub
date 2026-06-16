@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-06-16</b></td>
+<td align="center" valign="top"><small>-</small></td>
+<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-16/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a small pond in the middle of some rocks</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-06-15</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-15/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>蔚蓝海礁的守护者</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-15/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>a river running through a forest filled with lots of trees</small></td>
@@ -87,11 +92,6 @@
 <td align="center"><b>2026-06-07</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-07/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>随波逐流</small></td>
 <td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-07/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>white clouds over white clouds</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-06-06</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-06/2026-06-06/image.jpg"><img src="docs/wallpapers/bing/2026-06/2026-06-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>最后一堵墙矗立着</small></td>
-<td align="center" valign="top"><a href="docs/wallpapers/unsplash/2026-06/2026-06-06/image.jpg"><img src="docs/wallpapers/unsplash/2026-06/2026-06-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>green trees on green grass field during daytime</small></td>
 </tr>
 </table>
 <!-- WALLPAPER_INDEX_END -->
