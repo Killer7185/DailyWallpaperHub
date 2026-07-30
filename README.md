@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-07-30</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-30/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>穿越时光的足迹</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-07-29</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-29/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-29/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>旷野无声，活态传承之境</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-07-21</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-21/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>细微之举，影响深远</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-07-20</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-20/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>拱影寻踪</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
