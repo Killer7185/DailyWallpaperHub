@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-02</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-02/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-02/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>色彩鲜艳的船只，历久弥新的传统</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-01</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-01/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>色彩鲜艳的船只，历久弥新的传统</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-07-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-24/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>加境幽廊</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-07-23</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-23/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>缤纷多彩的一家人</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
