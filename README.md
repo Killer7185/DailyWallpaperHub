@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-10</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-10/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>绚丽多彩的哥本哈根</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-09/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>两片沙漠交汇之地</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-08-01</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-01/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>色彩鲜艳的船只，历久弥新的传统</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-07-31</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-07/2026-07-31/image.jpg"><img src="docs/wallpapers/bing/2026-07/2026-07-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>基拉韦厄火山的威力</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
