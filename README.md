@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-19</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-19/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-19/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>鲸群之声</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-18</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-18/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-18/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>浪潮间的通道</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-08-10</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-10/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>绚丽多彩的哥本哈根</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-09</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-09/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>两片沙漠交汇之地</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
