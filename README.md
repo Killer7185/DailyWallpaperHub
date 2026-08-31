@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-08-31</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>脚下的世界</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-08-30</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-30/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-30/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>图案艺术的典范</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-08-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-22/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>暑气渐消，金秋已至</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-21</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-21/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>天蓝色的翅膀</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
