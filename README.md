@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-10</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-10/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-10/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>地中海风情尽显</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-09</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-09/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-09/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>俯瞰大地拼图</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-09-01</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-01/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>海岸边的缤纷色彩</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-08-31</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-08/2026-08-31/image.jpg"><img src="docs/wallpapers/bing/2026-08/2026-08-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>脚下的世界</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
