@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-09-22</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-22/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>金秋平分，地坛染黄</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-09-21</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-21/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>金色时节</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-09-13</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-13/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>坚韧在此扎根</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-12</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-12/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>高处的珊瑚礁</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
