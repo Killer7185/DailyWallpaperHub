@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-07</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-07/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-07/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>现在你“海”能看见我……</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-06</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-06/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>迷惑不解？沿着小径走</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-09-28</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-28/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-28/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>冰川孕育之河</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-09-27</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-09/2026-09-27/image.jpg"><img src="docs/wallpapers/bing/2026-09/2026-09-27/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>可览美景的历史胜地</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
