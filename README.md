@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-10-15</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-15/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>一窥科罗拉多群峰</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-14/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>桥梁、屋顶与暮色</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-10-06</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-06/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-06/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>迷惑不解？沿着小径走</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-05</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-05/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-05/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>条纹中的地球故事</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
