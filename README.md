@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-01</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-01/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-01/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>写在冰上的未来</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-10-31</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-31/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-31/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>林间迷雾</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-10-23</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-23/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>书香里的极致华美</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-10-22</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-10/2026-10-22/image.jpg"><img src="docs/wallpapers/bing/2026-10/2026-10-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>荒野伙伴</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
