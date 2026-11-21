@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-21</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-21/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-21/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>海浪间的庇护所</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-20</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-20/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-20/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>陶瓦屋顶下的梦</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-11-12</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-12/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-12/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>冰下秘境</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-11</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-11/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-11/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>没有建筑师的建筑杰作</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
