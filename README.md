@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-23</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-23/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-23/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>秋日的保护色</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-22</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-22/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-22/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>自然中的几何之美</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-11-14</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-14/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-14/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>霜染枝叶</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-13</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-13/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-13/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>唯有向上发展</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
