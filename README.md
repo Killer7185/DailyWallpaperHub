@@ -43,6 +43,11 @@
 <table width="100%">
 <tr><th width="15%">日期</th><th width="42%">Bing 🔍</th><th width="42%">Unsplash 📷</th></tr>
 <tr>
+<td align="center"><b>2026-11-25</b></td>
+<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-25/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-25/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>彩虹落下的地方</small></td>
+<td align="center" valign="top"><small>-</small></td>
+</tr>
+<tr>
 <td align="center"><b>2026-11-24</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-24/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-24/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>美国西南部的一场雪</small></td>
 <td align="center" valign="top"><small>-</small></td>
@@ -85,11 +90,6 @@
 <tr>
 <td align="center"><b>2026-11-16</b></td>
 <td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-16/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-16/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>走进广阔的大自然</small></td>
-<td align="center" valign="top"><small>-</small></td>
-</tr>
-<tr>
-<td align="center"><b>2026-11-15</b></td>
-<td align="center" valign="top"><a href="docs/wallpapers/bing/2026-11/2026-11-15/image.jpg"><img src="docs/wallpapers/bing/2026-11/2026-11-15/thumb.jpg" width="100%" style="border-radius:10px;"></a><br /><small>历经岁月，屹立不倒</small></td>
 <td align="center" valign="top"><small>-</small></td>
 </tr>
 </table>
